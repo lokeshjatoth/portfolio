@@ -17,7 +17,7 @@ You need to have the following software installed on your computer:
 2. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/nixrajput/portfolio-nextjs.git
+   git clone https://github.com/lokeshjatoth/portfolio.git
    ```
 
 3. Navigate to the project directory:

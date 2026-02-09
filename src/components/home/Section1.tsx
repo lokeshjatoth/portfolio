@@ -32,8 +32,6 @@ const HomeSection1 = ({ id }: Readonly<{ id: string }>) => {
 
           <div className="gap-4 mt-12 lg:mt-16 flex flex-col md:flex-row">
             <TalkButton />
-          </div>
-          <div className="gap-4 mt-12 lg:mt-16 flex flex-col md:flex-row">
             <Resume />
           </div>
         </Column>
